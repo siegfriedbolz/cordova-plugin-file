@@ -20,8 +20,8 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-           id="org.apache.cordova.file.bolz"
-      version="1.2.1-dev">
+           id="fork.cordova.file"
+      version="1.2.1">
     <name>File</name>
     <description>Cordova File Plugin - Bolz Edition</description>
     <license>Apache 2.0</license>
